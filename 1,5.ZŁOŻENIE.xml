@@ -1,0 +1,14 @@
+<DATAEX>
+
+<!-- 1. KOMENDA DO WGRYWANIA ELEMENTU ZŁOŻENIA -->
+<COMMAND Name="Import" TblRef="PR_PPRR_00000100"> 
+    <FIELD FldRef="PrdRef" FldValue="#ANTRIEBSTATION1" FldType="20"/><!-- wpisz referencje złożenia -->
+    <FIELD FldRef="PrdName" FldValue="" FldType="20"/>
+    <FIELD FldRef="Assembly" FldValue="1" FldType="100"/>
+    <FIELD FldRef="PCATEGORY" FldValue="2" FldType="100"/>
+	<FIELD FldRef="ForSale" FldValue="1" FldType="30"/>
+	
+</COMMAND>
+<!-- 2. KOMENDA DO WGRYWANIA OPERACJI ZŁOŻENIA -->
+
+</DATAEX>

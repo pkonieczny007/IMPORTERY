@@ -1,0 +1,12 @@
+<DATAEX>
+
+
+</COMMAND>
+<!-- 3. KOMENDA DO WGRYWANIA ELEMENTÓW Z BAZY DO ZŁOŻENIA -->
+<COMMAND Name="Import" TblRef="PR_SSTT_00000100">
+    <FIELD FldRef="PrdRefOrg" FldValue="SL40038000" FldType="20"/> <!-- wpisz do jakiego złożenia wgrać elementy (ASSEMBLY_ID) -->
+    <FIELD FldRef="PrdRefDst" FldValue="4_S235_SL40038000_p1_2st_GS_8117_34A_" FldType="20"/> <!-- wpisz element arkusza z bazy do wgrania do złożenia-->
+    <FIELD FldRef="PQUANT" FldValue="3" FldType="100"/>
+</COMMAND>
+
+</DATAEX>

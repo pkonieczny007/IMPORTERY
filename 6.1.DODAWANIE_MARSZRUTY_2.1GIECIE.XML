@@ -1,0 +1,9 @@
+<DATAEX>
+<COMMAND Name="Import" TblRef="PRODUCT OPERATIONS">
+    <FIELD FldRef="PrdRef" FldValue="B4_1083_G_17E" FldType="20"/>
+    <FIELD FldRef="OOrder" FldValue="2" FldType="100"/>
+    <FIELD FldRef="PrevOpr" FldValue="1" FldType="100"/>
+    <FIELD FldRef="WrkRef" FldValue="Gietarka" FldType="20"/>
+    <FIELD FldRef="OprRef" FldValue="Giecie" FldType="20"/>
+</COMMAND>
+</DATAEX>
